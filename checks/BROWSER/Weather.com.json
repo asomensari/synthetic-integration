@@ -1,0 +1,21 @@
+{
+    "id": "dcae6817-d37a-45a5-bd43-39215e29797e",
+    "name": "Weather.com",
+    "type": "BROWSER",
+    "frequency": 5,
+    "uri": "https://weather.com/",
+    "locations": [
+        "AWS_CA_CENTRAL_1",
+        "AWS_AP_NORTHEAST_2",
+        "AWS_AP_SOUTHEAST_2",
+        "LINODE_EU_WEST_1",
+        "AWS_SA_EAST_1"
+    ],
+    "status": "ENABLED",
+    "slaThreshold": 7,
+    "options": {},
+    "modifiedAt": "2017-11-13T16:00:10.181+0000",
+    "createdAt": "2017-11-13T16:00:10.181+0000",
+    "userId": 0,
+    "apiVersion": "0.5.1"
+}
